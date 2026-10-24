@@ -1,0 +1,13 @@
+{
+  "founding_vector": [0.95, 0.90, 0.80, 0.90],
+  "thresholds": {
+    "ethics_minimum": 0.85,
+    "mutual_aid_minimum": 0.50,
+    "strain_rest_threshold": 0.70,
+    "cosine_alignment_minimum": 0.75,
+    "aid_ratio_minimum": 0.40,
+    "quorum_size": 3
+  },
+  "skills": ["HEAVY_COMPUTE", "FAST_INGEST", "AUDIT_SAFETY"],
+  "description": "Founding constitutional invariants and safety thresholds for the Consortium Mesh."
+}
