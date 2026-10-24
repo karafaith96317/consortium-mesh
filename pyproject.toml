@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "consortium-mesh"
+version = "0.1.0"
+description = "Byzantine-resilient, decentralized multi-agent coordination protocol with epidemic Scuttlebutt, mutual-aid work-stealing, and homeostatic guardrails."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Kara Faith Sypen", email = "karafaith96317@gmail.com"}]
+license = {text = "MIT"}
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest", "ruff"]
+
+[project.scripts]
+consortium-node = "consortium.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
