@@ -9,7 +9,7 @@ description = "Byzantine-resilient, decentralized multi-agent coordination proto
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [{name = "Kara Faith Sypen", email = "karafaith96317@gmail.com"}]
-license = {text = "MIT"}
+license = {text = "Proprietary — All Rights Reserved"}
 dependencies = []
 
 [project.optional-dependencies]

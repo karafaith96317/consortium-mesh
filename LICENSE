@@ -1,21 +1,19 @@
-MIT License
+Copyright (c) 2026 Kara Faith Sypen. All rights reserved.
 
-Copyright (c) 2026 Kara Faith Sypen / LucidFluence
+This repository and its contents are the exclusive property of the copyright
+holder. No part of this repository may be reproduced, distributed, transmitted,
+or displayed in any form or by any means — and no part may be used to train,
+fine-tune, or evaluate machine learning models — without the prior written
+permission of the copyright holder, except for brief quotations for purposes
+of review or evaluation under an explicit written agreement.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Making this repository visible to any party grants no license, express or
+implied, under any copyright, patent, or other intellectual property right.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Note: versions of this repository published before this commit remain available
+under their original license (MIT). This notice applies to this version
+onward, from the date of this commit.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+All ideas, methods, and implementations herein are claimed as the original
+work of the copyright holder. Timestamped version-control history serves as
+the record of authorship and prior art.
